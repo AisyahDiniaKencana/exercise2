@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">exercise2</string>
+    <string name="labelapp">LOGIN</string>
+    <string name="labelapp2">MENU HITUNG BANGUN DATAR</string>
+    <string name="us">Username</string>
+    <string name="ms">Masukan Username</string>
+    <string name="ps">Password</string>
+    <string name="mp">Masukan Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="pe">Persegi</string>
+    <string name="lk">Lingkaran</string>
+    <string name="pj">Persegi Panjang</string>
+    <string name="sg">Segitiga</string>
+    <string name="tr">Traapesium</string>
+    <string name="bc">.</string>
+    <string name="cc">.</string>
+    <string name="dt">20180140071-Aisyah Dinia Kencana</string>
+    <string name="hl">Hitung Luas</string>
+    <string name="hk">Hitung Keliling</string>
+</resources>
